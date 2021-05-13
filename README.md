@@ -5,7 +5,9 @@ Users can store their images in the cloud using ImageVault and access them at th
 Spring Boot, Thymeleaf and Java.
 
 ## Link
-Azure link is down due to limited credits. Please feel free to download the copy and run on your local machine.
+http://imagevault.azurewebsites.net/
+
+Azure link might be down due to limited credits. Please feel free to download the copy and run on your local machine.
 
 ### Screenshots
 
